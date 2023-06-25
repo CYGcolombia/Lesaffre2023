@@ -1,0 +1,54 @@
+models:
+  # tblAlias:
+  #   descripcion: longtext
+  #   estado: boolean default:true
+
+  # tblPuntuacion:
+  #   user_id: id
+  #   puntuacion: decimal:5,2
+  #   trivia: strng:50 nullable
+
+  # Formulario:
+  #   descripcion: longtext
+  #   formtrivia: int:unique
+  #   fecha_star: date 
+  #   fecha_end: date
+  #   estado: boolean default:true
+
+  # Preguntas:
+  #   formularios_id: id
+  #   pregunta: longtext
+  #   archivo: string:150:nullable
+  #   calificacion: int:nullable
+  #   estado: boolean default:true
+
+  # OpcionesPregunta:
+  #   preguntas_id: id
+  #   nombrePregunta: longtext
+  #   criterio: boolean default:false
+  #   estado: boolean default:true
+
+  # calendars:
+  #   title: string:150 
+  #   start: date
+  #   icono: strng:100 nullable
+  #   enlace: longtext nullable
+  #   end: date
+  #   notas: string:255
+  #   allDay: boolean
+
+  # Respuesta: 
+  #   user_id:  id
+  #   puntuacion: int 
+  #   formulario_id: id
+  #   estadoTrivia: strng:100
+  #   estado: boolean default:true
+
+  # RespuestaDetalle:
+  #   user_id               : id
+  #   formulario_id         : id
+  #   pregunta_id           : id
+  #   opciones_preguntas_id : id
+  #   criterio              : strng:100 nullable
+  #   estado                : boolean default:true
+
