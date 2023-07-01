@@ -10,23 +10,20 @@
                 }'>
                     <div class="item">
                         <div class="single-slide d-flex align-items-center bg-image"
-                            data-bg-image="assets/img/slider/back_full2022.png">
+                            data-bg-image="assets/img/slider/back_full2023.png">
                             <div class="container">
+
                                 <div class="row align-items-center no-gutters w-100">
-                                    <div class="col-lg-4  offset-lg-1 col-md-8">
+                                    <div class="col-lg-6  offset-lg-3 col-md-5">
                                         <figure class="slider-image d-none d-md-block">
-                                            <img src="{{ asset('assets/img/slider/logo_slider2022.png')}}" alt="Slider Image">
+                                            <img src="{{ asset('assets/img/slider/logo-2023-03.png')}}" alt="Slider Image">
                                         </figure>
                                     </div>
-                                    <div class="col-lg-6 offset-lg-1 col-md-5">
-                                        <div class="slider-content">
-                                            <div class="slider-content__text mb--95 md-lg--80 mb-md--40 mb-sm--15">
-                                                <h3 class="font-weight-light" data-animation="fadeInUp" style="color: #DB1F26 !important; font-size:6rem"
-                                                    data-duration=".3s" data-delay=".3s"><b>Este año <br> Lesaffre te lleva <br> a Francia</b></h3>
-                                            </div>
-                                            <div class="slider-content__btn">
-                                                <a href="{{ URL::to('loginview') }}" class="css-button" style="background: #232E84 !important;" data-animation="fadeInUp">EMPEZÁ</a>
-                                            </div>
+                                </div>
+                                <div class="row align-items-center no-gutters w-100  mt-5">
+                                    <div class="col-lg-6 offset-lg-5 col-md-5">
+                                        <div class="slider-content__btn">
+                                            <a href="{{ URL::to('loginview') }}" class="css-button" style="background: #232E84 !important;" data-animation="fadeInUp">EMPEZÁ</a>
                                         </div>
                                     </div>
                                 </div>

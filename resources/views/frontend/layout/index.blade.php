@@ -4,7 +4,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>Desafío Lesaffre 2022-Vendé - Ganá - Viajá</title>
+    <title>Desafío Lesaffre 2023-Vendé - Ganá - Viajá</title>
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="csrf-token" content="{{ csrf_token() }}">
@@ -205,7 +205,7 @@
                 </div>
                 <div class="row ptb--20">
                     <div class="col-12 text-center">
-                        <p class="copyright-text">Desafío Lesaffre &copy; 2022 - Vendé - Ganá - Viajá</p>
+                        <p class="copyright-text">Desafío Lesaffre &copy; 2023 - Vendé - Ganá - Viajá</p>
                     </div>
                 </div>
             </div>
