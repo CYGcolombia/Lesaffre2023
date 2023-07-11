@@ -16,7 +16,7 @@
             }'>
                 <div class="item espacio-menu" >
                     <div class="single-slide d-flex align-items-center bg-image"
-                        data-bg-image="assets/img/slider/back_full2022.png">
+                        data-bg-image="assets/img/slider/back_full2023.png">
                         <div class="container-xxl">
                             <div class="row align-items-center no-gutters w-100">                                    
                                 <figure class="slider-image">

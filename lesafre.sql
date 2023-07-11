@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Servidor: localhost:3306
--- Tiempo de generación: 30-06-2022 a las 03:04:46
+-- Tiempo de generación: 30-06-2023 a las 03:04:46
 -- Versión del servidor: 5.7.24
 -- Versión de PHP: 7.4.19
 
@@ -73,13 +73,13 @@ INSERT INTO `migrations` (`id`, `migration`, `batch`) VALUES
 (1, '2014_10_12_000000_create_users_table', 1),
 (2, '2014_10_12_100000_create_password_resets_table', 1),
 (3, '2019_08_19_000000_create_failed_jobs_table', 1),
-(4, '2022_06_19_154148_create_tbl_puntuacions_table', 1),
-(5, '2022_06_19_154149_create_tbl_aliases_table', 1),
-(6, '2022_06_22_175629_create_event_lists_table', 2),
-(7, '2022_06_22_193013_create_calendars_table', 3),
-(8, '2022_06_23_024344_create_calendars_table', 4),
-(9, '2022_06_24_003404_create_preguntas_table', 5),
-(10, '2022_06_24_003405_create_opciones_preguntas_table', 5);
+(4, '2023_06_19_154148_create_tbl_puntuacions_table', 1),
+(5, '2023_06_19_154149_create_tbl_aliases_table', 1),
+(6, '2023_06_22_175629_create_event_lists_table', 2),
+(7, '2023_06_22_193013_create_calendars_table', 3),
+(8, '2023_06_23_024344_create_calendars_table', 4),
+(9, '2023_06_24_003404_create_preguntas_table', 5),
+(10, '2023_06_24_003405_create_opciones_preguntas_table', 5);
 
 -- --------------------------------------------------------
 
@@ -303,7 +303,7 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`id`, `name`, `email`, `alias`, `razon_social`, `tipo_user`, `email_verified_at`, `password`, `estado_usr`, `remember_token`, `created_at`, `updated_at`) VALUES
-(1, 'Crhistian David Vargas', 'cristian-d-2@hotmail.com', 'Administrador', 'cyg colombia', 'Administrador', NULL, '$2y$10$lOoPgTlLfs8KGjWKGxRFV.H3WnaEcGL9BCzdtZPsrCF4q4Dycll6a', 1, NULL, '2022-06-20 01:08:55', '2022-06-22 22:42:54');
+(1, 'Crhistian David Vargas', 'cristian-d-2@hotmail.com', 'Administrador', 'cyg colombia', 'Administrador', NULL, '$2y$10$lOoPgTlLfs8KGjWKGxRFV.H3WnaEcGL9BCzdtZPsrCF4q4Dycll6a', 1, NULL, '2023-06-20 01:08:55', '2023-06-22 22:42:54');
 
 -- --------------------------------------------------------
 

@@ -13,10 +13,10 @@
                 <div class="item" >
                    
                     <div class="single-slide d-flex align-items-center bg-image"
-                        data-bg-image="assets/img/slider/back_full2022.png">
+                        data-bg-image="assets/img/slider/back_full2023.png">
                         
                         <div class="container" style="margin-top: 10% !important;">
-                            <h3>Eventos Lesaffre 2022</h3>
+                            <h3>Eventos Lesaffre 2023</h3>
                             <br>
                             <br>
                             @foreach ($eventos as $evento)

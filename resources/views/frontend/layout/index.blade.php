@@ -142,7 +142,7 @@
                     </div>                    
                     <div class="col footer-column-3 mb-sm--33">
                         <div class="footer-widget">
-                            <h3 class="widget-title mb--35 mb-sm--15">Desafío Lesaffre 2022</h3>
+                            <h3 class="widget-title mb--35 mb-sm--15">Desafío Lesaffre 2023</h3>
                             <ul class="footer-menu">
                                 <li>
                                     <a href="{{URL::to('bases')}}">
