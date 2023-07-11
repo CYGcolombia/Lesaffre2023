@@ -22,7 +22,6 @@ class CalendarController extends Controller
     public function calendarEvents(Request $request)
     {
        $eventos = Calendars::get();
-
        return ['eventos' => $eventos];
     }
 
