@@ -14,7 +14,7 @@
     <div class="container" >
         <div class="row">
             <div class="col-12 text-center">
-                <h1 class="page-title">Desafío Lesaffre 2022</h1>
+                <h1 class="page-title">Desafío Lesaffre 2023</h1>
             </div>
         </div>
     </div>
