@@ -13,14 +13,14 @@
                             data-bg-image="assets/img/slider/back_full2023.png">
                             <div class="container">
                                 <div class="row align-items-center no-gutters w-100 mt-5">
-                                    <div class="col-lg-12 col-md-12" style="margin-left: 28% !important">
+                                    <div class="col-lg-12 col-md-12 col-xs-12" style="margin-left: 28% !important">
                                         <figure class="slider-image d-none d-md-block">
-                                            <img src="{{ asset('assets/img/slider/logo-2023-03.png')}}" alt="Slider Image" style="">
+                                            <img src="{{ asset('assets/img/slider/logo-2023-03.png')}}" alt="Slider Image">
                                         </figure>
                                     </div>
                                 </div>
                                 <div class="row align-items-center no-gutters w-100  mt-5">
-                                    <div class="col-lg-12 offset-lg-5 col-md-12">
+                                    <div class="col-lg-12 offset-lg-5 col-md-12 col-xs-12">
                                         <div class="slider-content__btn">
                                             <a href="{{ URL::to('loginview') }}" class="css-button" style="background: #232E84 !important;" data-animation="fadeInUp">EMPEZÁ</a>
                                         </div>
