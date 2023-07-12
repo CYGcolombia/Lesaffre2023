@@ -22,7 +22,6 @@ class CalendarController extends Controller
     public function calendarEvents(Request $request)
     {
        $eventos = Calendars::get();
-
        return ['eventos' => $eventos];
     }
 
@@ -31,7 +30,6 @@ class CalendarController extends Controller
         if(!$request->ajax()) return redirect('/');
         try {
             DB::beginTransaction();
-
             $evento                = new Calendars;
             $evento->title         = $request->title;
             $evento->start         = $request->start;
