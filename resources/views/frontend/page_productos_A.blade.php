@@ -17,14 +17,14 @@
                             <div class="product__inner">
                                 <div class="product__image">
                                     <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/LEVINA-300.png" alt="Product">
+                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/Copama.png" alt="Product">
                                     </figure>
                                     <a href="https://www.lesaffreargentina.com.ar/wp-content/uploads/2020/05/D%C3%ADptico_levadura_Levina-Roja.pdf" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
-                                            <a href="https://www.lesaffreargentina.com.ar/wp-content/uploads/2020/05/D%C3%ADptico_levadura_Levina-Roja.pdf">LEVINA</a>
+                                            <a href="https://www.lesaffreargentina.com.ar/wp-content/uploads/2020/05/D%C3%ADptico_levadura_Levina-Roja.pdf">Copama</a>
                                         </h3>
                                     </div>
                                 </div>
