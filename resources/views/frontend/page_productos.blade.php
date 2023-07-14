@@ -5,7 +5,7 @@
     <div class="main-content-wrapper">
         
     </div>    
-        <div class="shop-page-wrapper shop-fullwidth ptb--80">                          
+        <div class="shop-page-wrapper shop-fullwidth ptb--80" style="padding-top: 25vh !important;">                          
             <div class="container-fluid shop-products" style="margin-top: -13vh !important;">
                 <div style="padding-bottom:5%;">
                     <img class="product-thumbnail text-left" src="{{ asset('assets/img/brand/ico 2.png')}}"/>
