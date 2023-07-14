@@ -3,24 +3,24 @@
 @section('content')
 <!-- Slider area Start -->
     <main class="main-content-wrapper">
-            <section class="homepage-slider mb--11pt5" >
+            <section class="homepage-slider mb--11pt5">
                 <div class="element-carousel slick-right-bottom" data-slick-options='{
                     "slidesToShow": 1, 
                     "dots": true
                 }'>
                     <div class="item">
                         <div class="single-slide d-flex align-items-center bg-image"
-                            data-bg-image="assets/img/slider/back_full2023.png">
+                            data-bg-image="assets/img/slider/back_full2023.png" style="height: 90vh">
                             <div class="container">
-                                <div class="row align-items-center no-gutters w-100 mt-5">
-                                    <div class="col-lg-12 col-md-12 col-xs-12" style="margin-left: 28% !important">
-                                        <figure class="slider-image d-none d-md-block">
-                                            <img src="{{ asset('assets/img/slider/logo-2023-03.png')}}" alt="Slider Image">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-xs-12 d-flex justify-content-center">
+                                        <figure class="slider-image d-md-block">
+                                            <img src="{{ asset('assets/img/slider/logo-2023-03.png')}}" alt="Slider Image" style="width: 50vh !important;">
                                         </figure>
                                     </div>
                                 </div>
-                                <div class="row align-items-center no-gutters w-100  mt-5">
-                                    <div class="col-lg-12 offset-lg-5 col-md-12 col-xs-12">
+                                <div class="row">
+                                    <div class="col-lg-12 col-md-12 col-xs-12 d-flex justify-content-center">
                                         <div class="slider-content__btn">
                                             <a href="{{ URL::to('loginview') }}" class="css-button" style="background: #232E84 !important;" data-animation="fadeInUp">EMPEZÁ</a>
                                         </div>
