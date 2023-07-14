@@ -6,7 +6,7 @@
         
     </div>    
         <div class="shop-page-wrapper shop-fullwidth ptb--80">                          
-            <div class="container-fluid shop-products">
+            <div class="container-fluid shop-products" style="margin-top: -13vh !important;">
                 <div style="padding-bottom:5%;">
                     <img class="product-thumbnail text-left" src="{{ asset('assets/img/brand/ico 2.png')}}"/>
                     <h2 id="texto">LEVADURAS PRENSADAS</h2>
@@ -41,7 +41,7 @@
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top: -8%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">CubitoLevex Continuo</a>
                                         </h3>
@@ -60,7 +60,7 @@
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top: -3%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">LEVASAF 190220_flat</a>
                                         </h3>
@@ -79,7 +79,7 @@
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top: -7%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">LEVINA ROJA</a>
                                         </h3>
@@ -98,7 +98,7 @@
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top: -7%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Rekord</a>
                                         </h3>
@@ -156,14 +156,14 @@
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
                         <div class="payne-product">
                             <div class="product__inner">
-                                <div class="product__image" style="margin-top:10%;">
+                                <div class="product__image">
                                     <figure class="product__image--holder">
                                         <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/LevexMasaMadre.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top:15%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Levex MasaMadre</a>
                                         </h3>
@@ -175,14 +175,14 @@
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
                         <div class="payne-product">
                             <div class="product__inner">
-                                <div class="product__image" style="margin-top:10%;">
+                                <div class="product__image">
                                     <figure class="product__image--holder">
                                         <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/LevexTradicional NUEVO.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top:15%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Levex Tradicional NUEVO</a>
                                         </h3>
@@ -194,14 +194,14 @@
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
                         <div class="payne-product">
                             <div class="product__inner">
-                                <div class="product__image" style="margin-top:10%;">
+                                <div class="product__image">
                                     <figure class="product__image--holder">
                                         <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Saf Instant ORO.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top:15%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Saf Instant ORO</a>
                                         </h3>
@@ -213,14 +213,14 @@
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
                         <div class="payne-product">
                             <div class="product__inner">
-                                <div class="product__image" style="margin-top:10%;">
+                                <div class="product__image">
                                     <figure class="product__image--holder">
                                         <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Saf Instant Roja.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
-                                    <div class="product__info--left" style="margin-top:15%;">
+                                    <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Saf Instant Roja</a>
                                         </h3>
