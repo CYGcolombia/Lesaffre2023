@@ -50,7 +50,7 @@
                             <div class="header__col header__left">
                                 <a href="{{ URL::to('/') }}" class="logo">
                                     <figure class="logo--normal">
-                                        <img src="{{ asset('assets/img/logo/logo-header.png')}}" alt="Logo">
+                                        <img src="{{ asset('assets/img/logo/logo-header.png')}}" alt="Logo" style="width: 17vh; max-width: 100%;">
                                     </figure>
                                     <figure class="logo--transparency">
                                         <img src="{{ asset('assets/img/logo/logo-lesaffre-transparent-119x76.png')}}" alt="Logo">
