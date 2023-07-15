@@ -7,9 +7,13 @@
     </div>    
         <div class="shop-page-wrapper shop-fullwidth ptb--80" style="padding-top: 25vh !important;">                          
             <div class="container-fluid shop-products" style="margin-top: -13vh !important;">
-                <div style="padding-bottom:5%;">
-                    <img class="product-thumbnail text-left" src="{{ asset('assets/img/brand/ico 2.png')}}"/>
-                    <h2 id="texto">LEVADURAS PRENSADAS</h2>
+                <div style="padding-bottom: 5%; padding-top: 5%">
+                    <div class="row">
+                        <div class="col-12">
+                            <img class="product-thumbnail text-left" src="{{ asset('assets/img/brand/ico 2.png')}}" style="width: 10vh; max-with:100%;"/>
+                            <h4 id="texto">LEVADURAS PRENSADAS</h4>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
@@ -21,7 +25,7 @@
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
-                                <div class="product__info">
+                                <div class="product__info" style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Copama</a>
@@ -40,7 +44,7 @@
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
-                                <div class="product__info">
+                                <div class="product__info"  style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">CubitoLevex Continuo</a>
@@ -59,7 +63,7 @@
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
-                                <div class="product__info">
+                                <div class="product__info" style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">LEVASAF 190220_flat</a>
@@ -78,7 +82,7 @@
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
-                                <div class="product__info">
+                                <div class="product__info" style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">LEVINA ROJA</a>
@@ -97,7 +101,7 @@
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
-                                <div class="product__info">
+                                <div class="product__info" style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
                                             <a href="#">Rekord</a>
@@ -111,8 +115,12 @@
             </div>
             <div class="container-fluid shop-products">
                 <div style="padding-bottom:5%;">
-                    <img class="product-thumbnail text-left" src="{{ asset('assets/img/brand/ico 2.png')}}"/>
-                    <h2 id="texto">LEVADURAS SECAS</h2>
+                    <div class="row">
+                        <div class="col-12">
+                            <img class="product-thumbnail text-left" src="{{ asset('assets/img/brand/ico 2.png')}}" style="width: 10vh; max-with:100%;"/>
+                            <h4 id="texto">LEVADURAS SECAS</h4>
+                        </div>
+                    </div>
                 </div>
                 <div class="row">
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
