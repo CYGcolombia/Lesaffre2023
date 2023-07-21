@@ -21,14 +21,14 @@
                             <div class="product__inner">
                                 <div class="product__image">
                                     <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/Copama.jpg" alt="Product">
+                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/Glondrina 500 grs.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info" style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
-                                            <a href="#">Copama</a>
+                                            <a href="#">Glondrina 500 grs</a>
                                         </h3>
                                     </div>
                                 </div>
@@ -40,71 +40,14 @@
                             <div class="product__inner">
                                 <div class="product__image">
                                     <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/CubitoLevex_Continuo.jpg" alt="Product">
+                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/Golondrina_Pack50g.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info"  style="margin-top: -3vh;">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
-                                            <a href="#">CubitoLevex Continuo</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
-                        <div class="payne-product">
-                            <div class="product__inner">
-                                <div class="product__image">
-                                    <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/LEVASAF 190220_flat.jpg" alt="Product">
-                                    </figure>
-                                    <a href="#" class="product__overlay"></a>                                        
-                                </div>
-                                <div class="product__info" style="margin-top: -3vh;">
-                                    <div class="product__info--left">
-                                        <h3 class="product__title">
-                                            <a href="#">LEVASAF 190220_flat</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>  
-                    <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
-                        <div class="payne-product">
-                            <div class="product__inner">
-                                <div class="product__image">
-                                    <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/LEVINA ROJA 190220_flat.jpg" alt="Product">
-                                    </figure>
-                                    <a href="#" class="product__overlay"></a>                                        
-                                </div>
-                                <div class="product__info" style="margin-top: -3vh;">
-                                    <div class="product__info--left">
-                                        <h3 class="product__title">
-                                            <a href="#">LEVINA ROJA</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
-                        <div class="payne-product">
-                            <div class="product__inner">
-                                <div class="product__image">
-                                    <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURA PRENSADA/Rekord.jpg" alt="Product">
-                                    </figure>
-                                    <a href="#" class="product__overlay"></a>                                        
-                                </div>
-                                <div class="product__info" style="margin-top: -3vh;">
-                                    <div class="product__info--left">
-                                        <h3 class="product__title">
-                                            <a href="#">Rekord</a>
+                                            <a href="#">Golondrina Pack 50 gr</a>
                                         </h3>
                                     </div>
                                 </div>
@@ -123,44 +66,6 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
-                        <div class="payne-product">
-                            <div class="product__inner">
-                                <div class="product__image">
-                                    <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Instant Success ORO 500 g.jpg" alt="Product">
-                                    </figure>
-                                    <a href="#" class="product__overlay"></a>                                        
-                                </div>
-                                <div class="product__info">
-                                    <div class="product__info--left">
-                                        <h3 class="product__title">
-                                            <a href="#">Instant Success ORO 500</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
-                        <div class="payne-product">
-                            <div class="product__inner">
-                                <div class="product__image">
-                                    <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Instant Success PLATA 500 g.jpg" alt="Product">
-                                    </figure>
-                                    <a href="#" class="product__overlay"></a>                                        
-                                </div>
-                                <div class="product__info">
-                                    <div class="product__info--left">
-                                        <h3 class="product__title">
-                                            <a href="#">Instant Success PLATA 500</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
                     <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
                         <div class="payne-product">
                             <div class="product__inner">
@@ -204,39 +109,20 @@
                             <div class="product__inner">
                                 <div class="product__image">
                                     <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Saf Instant ORO.jpg" alt="Product">
+                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Fermipan Red.jpg" alt="Product">
                                     </figure>
                                     <a href="#" class="product__overlay"></a>                                        
                                 </div>
                                 <div class="product__info">
                                     <div class="product__info--left">
                                         <h3 class="product__title">
-                                            <a href="#">Saf Instant ORO</a>
+                                            <a href="#">Fermipan</a>
                                         </h3>
                                     </div>
                                 </div>
                             </div>
                         </div>
-                    </div>  
-                    <div class="col-xl-3 col-md-4 col-sm-6 mb--50">
-                        <div class="payne-product">
-                            <div class="product__inner">
-                                <div class="product__image">
-                                    <figure class="product__image--holder">
-                                        <img src="assets/img/products/PRODUCTOS CAT A/LEVADURAS SECAS/Saf Instant Roja.jpg" alt="Product">
-                                    </figure>
-                                    <a href="#" class="product__overlay"></a>                                        
-                                </div>
-                                <div class="product__info">
-                                    <div class="product__info--left">
-                                        <h3 class="product__title">
-                                            <a href="#">Saf Instant Roja</a>
-                                        </h3>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>                        
+                    </div>                      
                 </div>
             </div>
         </div>
